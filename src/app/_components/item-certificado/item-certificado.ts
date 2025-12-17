@@ -1,14 +1,14 @@
 import { Component } from '@angular/core';
-import { SecondaryButton } from "../secondary-button/secondary-button";
+import { SecondaryButtonComponent } from "../secondary-button/secondary-button";
 import { Router, RouterLink } from "@angular/router";
 
 @Component({
   selector: 'app-item-certificado',
-  imports: [SecondaryButton, RouterLink],
+  imports: [SecondaryButtonComponent, RouterLink],
   templateUrl: './item-certificado.html',
   styleUrl: './item-certificado.css'
 })
-export class ItemCertificado {
+export class ItemCertificadoComponent {
   id: string = '6';
   //chamado assim que o componente é instanciado
   constructor(

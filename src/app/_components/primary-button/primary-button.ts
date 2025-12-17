@@ -7,7 +7,7 @@ import { Component, Input } from '@angular/core';
   templateUrl: './primary-button.html',
   styleUrl: './primary-button.css'
 })
-export class PrimaryButton {
+export class PrimaryButtonComponent {
   @Input() textoBotao: string = '';
   @Input() disabled: boolean = false;
 }
