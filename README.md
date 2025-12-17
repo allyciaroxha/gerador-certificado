@@ -1,6 +1,6 @@
 # 📜 Gerador de Certificados
 
-Projeto em desenvolvimento para geração de certificados usando Angular, Bootstrap e HTML.
+Projeto simples e em desenvolvimento para geração de certificados usando Angular, Bootstrap e HTML.
 
 ## 🚀 Tecnologias
 
