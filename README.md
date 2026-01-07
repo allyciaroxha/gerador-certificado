@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Projeto simples para geração de certificados usando Angular, Bootstrap e HTML.
+Projeto para geração de certificados usando Angular, Bootstrap e HTML.
 
 ## Telas do Projeto
 
